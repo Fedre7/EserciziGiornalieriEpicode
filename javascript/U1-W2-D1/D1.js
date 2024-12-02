@@ -28,9 +28,8 @@ UNDEFINED: la scatola esiste ma non abbiamo ancora deciso il contenuto
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 let myName = "Federico"
-const myname = "federico"
 console.log(myName)
-console.log(myname)
+
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
@@ -55,9 +54,8 @@ const x = 12
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 myName = "Renzi"
-myname = "renzi"
 console.log(myName)
-console.log(myname)
+
 
 
 /* ESERCIZIO 6
